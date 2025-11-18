@@ -3,7 +3,7 @@
 import { useCart } from "@/app/context/CartContext"
 import { PageHeader } from "@/components/PageHeader"
 import { Button } from "@/components/ui/button"
-import { Input } from "@/components/ui/Input"
+import { Input } from "@/components/ui/input"
 import Link from "next/link"
 import { Trash2, Minus, Plus } from 'lucide-react'
 

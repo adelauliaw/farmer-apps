@@ -3,8 +3,8 @@
 import { useState, useMemo } from "react"
 import { PageHeader } from "@/components/PageHeader"
 import { ProductCard } from "@/components/ProductCard"
-import { Input } from "@/components/ui/Input"
-import { Select } from "@/components/ui/Select"
+import { Input } from "@/components/ui/input"
+import { Select } from "@/components/ui/select"
 import { products, categories } from "@/app/data/mockData"
 
 export default function ProductsPage() {

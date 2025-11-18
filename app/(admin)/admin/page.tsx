@@ -1,6 +1,4 @@
-"use client"
-
-import { Card } from "@/components/ui/Card"
+import { Card } from "@/components/ui/card"
 import { products, mockOrders } from "@/app/data/mockData"
 import { ShoppingCart, Package, AlertCircle, TrendingUp } from 'lucide-react'
 

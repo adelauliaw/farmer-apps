@@ -3,7 +3,7 @@
 import { useState, useMemo } from "react"
 import { PageHeader } from "@/components/PageHeader"
 import { ProductCard } from "@/components/ProductCard"
-import { Select } from "@/components/ui/Select"
+import { Select } from "@/components/ui/select"
 import { products, categories } from "@/app/data/mockData"
 
 interface CategoryPageProps {

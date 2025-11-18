@@ -6,7 +6,7 @@ import Link from "next/link"
 import { PageHeader } from "@/components/PageHeader"
 import { ProductCard } from "@/components/ProductCard"
 import { Button } from "@/components/ui/button"
-import { Input } from "@/components/ui/Input"
+import { Input } from "@/components/ui/input"
 import { products, categories } from "@/app/data/mockData"
 import { useCart } from "@/app/context/CartContext"
 import { ChevronLeft, Minus, Plus, ShoppingCart } from 'lucide-react'

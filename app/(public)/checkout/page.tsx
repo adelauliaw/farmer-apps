@@ -5,9 +5,9 @@ import { useRouter } from 'next/navigation'
 import { useCart } from "@/app/context/CartContext"
 import { PageHeader } from "@/components/PageHeader"
 import { Button } from "@/components/ui/button"
-import { Input } from "@/components/ui/Input"
-import { Select } from "@/components/ui/Select"
-import { Card } from "@/components/ui/Card"
+import { Input } from "@/components/ui/input"
+import { Select } from "@/components/ui/select"
+import { Card } from "@/components/ui/card"
 import Link from "next/link"
 
 export default function CheckoutPage() {

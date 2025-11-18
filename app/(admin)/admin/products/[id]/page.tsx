@@ -3,10 +3,10 @@
 import { useState } from "react"
 import { useRouter } from 'next/navigation'
 import { products, categories } from "@/app/data/mockData"
-import { Card } from "@/components/ui/Card"
+import { Card } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
-import { Input } from "@/components/ui/Input"
-import { Select } from "@/components/ui/Select"
+import { Input } from "@/components/ui/input"
+import { Select } from "@/components/ui/select"
 
 interface EditProductPageProps {
   params: { id: string }

@@ -3,7 +3,7 @@
 import { useState } from "react"
 import Link from "next/link"
 import { products as initialProducts, categories } from "@/app/data/mockData"
-import { Card } from "@/components/ui/Card"
+import { Card } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
 import { Edit, Trash2 } from 'lucide-react'
 

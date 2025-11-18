@@ -2,9 +2,9 @@
 
 import { useState } from "react"
 import { categories as initialCategories } from "@/app/data/mockData"
-import { Card } from "@/components/ui/Card"
+import { Card } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
-import { Input } from "@/components/ui/Input"
+import { Input } from "@/components/ui/input"
 import { Edit, Trash2 } from 'lucide-react'
 
 export default function CategoriesPage() {

@@ -1,4 +1,4 @@
-import { Card } from "@/components/ui/Card"
+import { Card } from "@/components/ui/card"
 import { mockOrders } from "@/app/data/mockData"
 
 export default function OrdersPage() {
